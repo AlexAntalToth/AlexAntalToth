@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlexAntalToth
-- 👀 I’m interested in Coding & E-Sports
+- 👀 I’m interested in Coding , Sports & E-Sports
 - 🌱 I’m currently learning JS, HTML, CSS & Angular
 - 📫 How to reach me: alexibexilul@gmail.com
 - ⚡ Fun fact: Im the best competeive Fortnite player who is also Coding!
